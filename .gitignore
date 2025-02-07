@@ -1,0 +1,28 @@
+# Ігнорування файлів Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Лог-файли
+logs/
+*.log
+
+# Віртуальне середовище
+venv/
+.env/
+
+# IDE та редактори
+.vscode/
+.idea/
+*.iml
+
+# Тести та результати запусків
+pytest_cache/
+.coverage
+htmlcov/
+*.pytest_cache/
+
+# Конфігураційні файли операційної системи
+.DS_Store
+Thumbs.db

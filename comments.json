@@ -1,0 +1,28 @@
+[
+    {
+        "text": "Яка чудова книга!",
+        "author": "Бодя",
+        "is_deleted": false,
+        "replies": [
+            {
+                "text": "Цей коментар було видалено.",
+                "author": "Андрій",
+                "is_deleted": true,
+                "replies": [
+                    {
+                        "text": "Не книжка, а перевели купу паперу ні нащо...",
+                        "author": "Сергій",
+                        "is_deleted": false,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "text": "Що в ній чудового?",
+                "author": "Марина",
+                "is_deleted": false,
+                "replies": []
+            }
+        ]
+    }
+]
